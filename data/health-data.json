@@ -1,0 +1,57 @@
+{
+  "sleep": {
+    "monday": "7",
+    "tuesday": "8",
+    "wednesday": "9",
+    "thursday": "8",
+    "friday": "7.5",
+    "saturday": "6",
+    "sunday": "8"
+  },
+  "insulin": [
+    {
+      "time": "05:55",
+      "dosage": "15",
+      "id": "6a1f78c8-0325-4d7b-900f-61a42a468723"
+    },
+    {
+      "time": "17:05",
+      "dosage": "10",
+      "id": "b41fea07-2e67-4360-83f2-a131963e02b4"
+    }
+  ],
+  "medication": [
+    {
+      "name": "Metformin",
+      "time": "16:04",
+      "id": "d1bca735-6faa-4e94-97b3-16b7e95d8fab"
+    },
+    {
+      "name": "aspirin",
+      "time": "18:54",
+      "id": "65285778-7dd0-40e1-a2be-2beec892258c"
+    },
+    {
+      "name": "aspirin",
+      "time": "19:15",
+      "id": "286a7424-077f-44a2-98a8-2b5724565f9e"
+    }
+  ],
+  "exercise": [
+    {
+      "type": "Yoga",
+      "duration": "45",
+      "id": "3abb4f2c-9347-447b-b0e0-8d00cfc762fe"
+    },
+    {
+      "type": "basketball",
+      "duration": "32",
+      "id": "79001844-353e-4395-aa4f-99db2f6b6046"
+    },
+    {
+      "activity": "cycling",
+      "duration": "120",
+      "id": "0813b7c9-2f7c-452f-959c-1e75c0acae62"
+    }
+  ]
+}
